@@ -4,10 +4,10 @@
 Projekt "Darwin Simulation" to aplikacja umożliwiająca przeprowadzanie symulacji ekosystemu w czasie rzeczywistym. Program pozwala na uruchamianie symulacji z wybranymi parametrami, analizowanie statystyk oraz wizualizację interakcji pomiędzy organizmami na mapie.
 
 ## Wykorzystane technologie
-- **Java 21** – główny język programowania
-- **JavaFX** – biblioteka do tworzenia graficznego interfejsu użytkownika
-- **Gradle** – system automatyzacji budowania projektu
-- **IntelliJ IDEA** – środowisko programistyczne
+- **Java 21**
+- **JavaFX**
+- **Gradle**
+- **IntelliJ IDEA**
 
 ## Główne funkcjonalności
 - Możliwość wyboru gotowych konfiguracji lub stworzenia własnych ustawień symulacji

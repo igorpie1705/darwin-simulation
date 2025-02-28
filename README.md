@@ -27,8 +27,10 @@ Projekt "Darwin Simulation" to aplikacja umożliwiająca przeprowadzanie symulac
 - Eksport statystyk do pliku CSV, umożliwiającego analizę w programach takich jak Excel
 
 ## Przykłady działania
-Zdjęcie mapy symulacji: *![image](https://github.com/user-attachments/assets/d3d577bc-9124-4a4f-8ad6-008086914fcc)*  
-Zdjęcie ekranu ustawień: *![image](https://github.com/user-attachments/assets/54fa952d-758a-40b0-bb8d-6e2bac76b6a8)*
+### Zdjęcie mapy symulacji:
+*![image](https://github.com/user-attachments/assets/d3d577bc-9124-4a4f-8ad6-008086914fcc)*  
+### Zdjęcie ekranu ustawień:
+*![image](https://github.com/user-attachments/assets/54fa952d-758a-40b0-bb8d-6e2bac76b6a8)*
 
 ## Wymagania systemowe
 - Java 21+

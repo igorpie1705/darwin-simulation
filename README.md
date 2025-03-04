@@ -35,7 +35,7 @@ Projekt "Darwin Simulation" to aplikacja umożliwiająca przeprowadzanie symulac
 ## Wymagania systemowe
 - Java 21+
 - System operacyjny: Windows, Linux, macOS
-- IntelliJ IDEA (zalecane do rozwoju aplikacji)
+- IntelliJ (zalecane)
 
 ## Instalacja i uruchomienie
 1. Sklonuj repozytorium:

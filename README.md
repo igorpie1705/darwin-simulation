@@ -1,7 +1,3 @@
-Oczywiście! Oto pełne tłumaczenie Twojego opisu projektu **Darwin Simulation** na język angielski:
-
----
-
 # Darwin Simulation
 
 ## Project Description
@@ -71,7 +67,3 @@ The "Darwin Simulation" project is an application that enables real-time ecosyst
 ## Contact
 
 If you have any questions regarding the project, feel free to reach out! 😊
-
----
-
-Chcesz też [angielski README.md w repozytorium](f), [wersję dwujęzyczną](f), czy może [lekkie uproszczenie języka dla początkujących](f)?
